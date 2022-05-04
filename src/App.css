@@ -1,3 +1,8 @@
 body{
-  font-family: 'open sans', sans-serif;
+  font-family: 'open sans',sans-serif;
+  padding: 20px 60px;
+}
+a{
+  color: #000;
+  text-decoration: none;
 }
